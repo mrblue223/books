@@ -14,7 +14,7 @@ https://drive.google.com/file/d/0By8giYopjXKPQWJ5RGVMdVJKLTQ/view?resourcekey=0-
 https://drive.google.com/file/d/0By8giYopjXKPUVVuNHBDbkU3VUE/view?resourcekey=0-E83lINRI7svyW_u1Kw2LuA (hacker playbook 2)
 https://pdfroom.com/books/the-hacker-playbook-3-practical-guide-to-penetration-testing/4zW5nWrxdNq (hacker playbook 3)
 https://b-ok.cc/book/3487236/79e007?dsource=recommend (attacking network protocols)
-https://b-ok.cc/book/5208551/37edd0?dsource=recommend (Real-World Bug Hunting)
+https://digtvbg.com/files/books-for-hacking/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking%20by%20Peter%20Yaworski.pdf (Real-World Bug Hunting)
 https://b-ok.cc/book/2482934/27a641?dsource=recommend (Penetration Testing)
   
 #MALWARE/CODING
