@@ -9,7 +9,8 @@ https://b-ok.cc/book/3704056/43b3c7?dsource=recommend (the linux command line)
 https://b-ok.cc/book/2867237/08799e (The art of invisibility by kevin mitnick)
 
 #OFFENCE
-https://b-ok.cc/book/3401544/518a0b (The web application hacker’s handbook: finding and exploiting security flaws )
+https://repo.zenk-security.com/Magazine%20E-book/Hacking-%20The%20Art%20of%20Exploitation%20(2nd%20ed.%202008)%20-%20Erickson.pdf (The art of exploitation)
+https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/Dafydd%20Stuttard,%20Marcus%20Pinto%20-%20The%20web%20application%20hacker%27s%20handbook_%20finding%20and%20exploiting%20security%20flaws-Wiley%20(2011).pdf (The web application hacker’s handbook 2: finding and exploiting security flaws )
 https://drive.google.com/file/d/0By8giYopjXKPQWJ5RGVMdVJKLTQ/view?resourcekey=0-AaLCOYm1SJN-LcJrTnJJ0w (hacker playbook 1)
 https://drive.google.com/file/d/0By8giYopjXKPUVVuNHBDbkU3VUE/view?resourcekey=0-E83lINRI7svyW_u1Kw2LuA (hacker playbook 2)
 https://pdfroom.com/books/the-hacker-playbook-3-practical-guide-to-penetration-testing/4zW5nWrxdNq (hacker playbook 3)
