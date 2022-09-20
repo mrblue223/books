@@ -26,6 +26,9 @@ https://b-ok.cc/book/5286627/0e6558?dsource=recommend (malware, data science)
 https://b-ok.cc/book/4995978/7ebef5?dsource=recommend (rootkits and bootkits)
 https://b-ok.cc/book/1274723/254e0e?dsource=recommend (Practical Malware Analysis)
 
+#SHELL SCRIPTING
+https://b-ok.cc/book/654905/e32b14?dsource=recommend (Classic Shell Scripting)
+https://b-ok.cc/book/3625697/d5344d?dsource=recommend (Linux Shell Scripting Cookbook 3rd Edition)
   
 #SOCIAL ENGINEERING
 https://b-ok.cc/book/866637/a8ebab (The art of social engineering)
